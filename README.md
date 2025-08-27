@@ -54,19 +54,6 @@ Simply open `index.html` in your browser to view the project.
 
 You can host this project online for free using **GitHub Pages** or **Netlify**.
 
-### GitHub Pages:
-
-1. Push the code to your GitHub repository.
-2. Go to **Settings > Pages**.
-3. Select the branch (e.g., `main`) and root folder.
-4. Save and get your live link 🌐.
-
-### Netlify:
-
-1. Go to [Netlify](https://www.netlify.com/).
-2. Connect your GitHub repo.
-3. Deploy with a single click 🚀.
-
 ---
 
 ## 🖼️ Screenshots
