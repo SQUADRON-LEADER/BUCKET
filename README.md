@@ -52,7 +52,7 @@ Simply open `index.html` in your browser to view the project.
 
 ## 🌍 Live Demo Deployment
 
-[You can host this project online for free using **GitHub Pages** ](https://squadron-leader.github.io/BUCKET/)
+[You can see my project on ](https://squadron-leader.github.io/BUCKET/)
 
 ---
 
