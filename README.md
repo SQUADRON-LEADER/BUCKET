@@ -11,7 +11,6 @@ A simple yet elegant **web project** built with **HTML, CSS, and JavaScript**, d
 * ⚡ **Interactive JavaScript** – Engaging dynamic behavior with DOM manipulation.
 * 🖼️ **Images Support** – Comes with an `images/` folder for assets.
 * 🧩 **Modular Codebase** – Separated into `index.html`, `style.css`, and `script.js` for better maintainability.
-
 ---
 
 ## 🛠️ Tech Stack
